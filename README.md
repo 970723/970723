@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @970723
+- 👋 Hi, I’m Shiny Chang （張芸瑄）
 - 👀 I’m interested in coding, reading and watch anime 
 - 🌱 I’m currently learning Python, C, C++ and Java Script
 - 💞️ I’m looking to collaborate on (none)
